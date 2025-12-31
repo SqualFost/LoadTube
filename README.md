@@ -26,8 +26,8 @@ Small project in **C using SDL3** to create a minimalist UI for downloading Yout
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SqualFost/yt-dl.git
-cd yt-dl
+git clone https://github.com/SqualFost/LoadTube.git
+cd LoadTube
 ```
 
 2. Install dependencies
@@ -66,8 +66,7 @@ make
 
 ## Notes
 - Everything is basic, thanks to **C** UI
-- I just began so basically nothing is working yet except the text input.
-
+- The video is dowloading there's just no text to display the status.
 ---
 
 #### Open to contributions <3
